@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js.
 - 📫 How to reach me: 
   - GitHub profile
-  - Twitter profile
+  - Twitter profile (found on my GitHub profile).
 
 <!---
 FraneCal/FraneCal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
